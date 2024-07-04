@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STM32F107VC 
-- 👀 I’m interested in, how to get a software developer.
-- 🌱 I’m currently learning JavaScript, I'm totally new to it.
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on little projects to learn the basics.
 - 📫 How to reach me 
 
